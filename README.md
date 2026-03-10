@@ -13,7 +13,7 @@ This repository accompanies my Bachelor's thesis and documents the preprocessing
 
 The goal of the project was to investigate how the quality of segmentation mask preprocessing influences the performance of a deep learning model trained to generate synthetic CT images from T1-weighted MRI scans, in the context of MRI-only radiotherapy planning.
 
-📄 **Full thesis available on Zenodo: https://doi.org/10.5281/zenodo.18941244
+📄 **Full thesis available on Zenodo: https://doi.org/10.5281/zenodo.18941244 **
 
 ---
 
