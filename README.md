@@ -29,7 +29,7 @@ Synthetic CT (sCT) images — generated from MRI using deep learning algorithms 
 
 This work used a subset of the **SynthRAD2023** open-source dataset:
 
-- **Source:** [SynthRAD2023 Grand Challenge](https://zenodo.org/record/7260705) (Thummerer et al., 2023)
+- **Source:** [SynthRAD2023 Grand Challenge](https://doi.org/10.1002/mp.16529) (Thummerer et al., 2023)
 - **License:** Creative Commons CC-BY-NC 4.0
 - **Task:** Task 1 — MRI to CT conversion, brain district
 - **Subset used:** 33 patients from Centre A (training set), T1-weighted MRI without contrast
