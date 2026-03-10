@@ -10,3 +10,5 @@ CT images are derived from the [SynthRAD2023 dataset](https://doi.org/10.1002/mp
 License: CC-BY-NC 4.0
 
 sCT images were generated as part of this thesis work.
+
+P.S. Generated sCT volumes in nrrd format are available upon request.
