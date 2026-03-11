@@ -96,7 +96,7 @@ Most challenging patient: **1BA131** (MAE = 132.06 HU)
 
 ### Visual Results
 
-Sample comparisons between reference CT and generated sCT across axial, coronal, and sagittal planes are available in the [`results/figures/`](results/figures/) folder.
+Sample comparisons between reference CT and generated sCT across axial, coronal, and sagittal planes are available in the [`results/figures/sample_sCT/`](results/figures/sample_sCT/) folder.
 
 ---
 
@@ -105,12 +105,10 @@ Sample comparisons between reference CT and generated sCT across axial, coronal,
 ```
 ├── README.md
 ├── results/
-│   ├── figures/              # MAE and bias distribution plots
-│   └── sample_sCT/           # Visual CT vs sCT comparisons (selected patients)
-├── preprocessing/
-│   └── parameters_table.csv  # 3D Slicer parameters used per patient
-└── analysis/
-    └── metrics_plots.py      # Python script for MAE/bias visualization
+│   ├── figures/            # MAE and bias distribution plots, Python script for MAE/bias visualization
+│   ├── data/               # Raw data tables
+│   └── sample_sCT/         # Visual CT vs sCT comparisons (selected patients)
+
 ```
 
 ---
@@ -131,7 +129,7 @@ Sample comparisons between reference CT and generated sCT across axial, coronal,
 
 If you use or reference this work, please cite the thesis:
 
-> Scarpelli, G.F. (2025). *Preprocessing di un dataset open source per la generazione di TC sintetiche* [Bachelor's thesis, Università degli Studi "Magna Græcia" di Catanzaro]. Zenodo. *[DOI to be added]*
+> Scarpelli, G.F. (2025). *Preprocessing di un dataset open source per la generazione di TC sintetiche* [Bachelor's thesis, Università degli Studi "Magna Græcia" di Catanzaro]. Zenodo. *[https://doi.org/10.5281/zenodo.18941244]*
 
 ---
 
