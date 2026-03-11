@@ -96,7 +96,7 @@ Most challenging patient: **1BA131** (MAE = 132.06 HU)
 
 ### Visual Results
 
-Sample comparisons between reference CT and generated sCT across axial, coronal, and sagittal planes are available in the [`results/figures/sample/`](results/figures/sample/) folder.
+Sample comparisons between reference CT and generated sCT across axial, coronal, and sagittal planes are available in the [`results/sample/`](results/sample/) folder.
 
 ---
 
